@@ -44,7 +44,7 @@ The quantitative parameters and the visualization images will be saved to user-s
 ## Copyright and IP information:
 University of Washington
 US patent?
-More information regarding each parameters can be found in: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4901200/
+More information regarding each parameters can be found in ![this paper] (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4901200/)
 
 ## Report the issue:
 If the software crashed, please use the command line tool (cmd from start menu) to open the software, and record the Error Information. Then send the OCT image and the error information to Yuxuan Cheng yxcheng@uw.edu.
