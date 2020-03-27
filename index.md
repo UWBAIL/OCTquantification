@@ -17,7 +17,7 @@ Use the Open Folder button to select the OCTA enface image to be processed.
  
 Step 2: Select the parameters
 Currently, user only need to select the size of the image, either select 4.5mm or 6mm
- 
+![Step2](./figs/Step2.png) 
 
 Step 3: Run the software
 Click the button ’Preview’ to visualize quantitative maps:
@@ -25,15 +25,19 @@ First row from left to right:
 Original OCTA image, binary vessel map, binary skeleton map and binary flow impairment zone map.
 Second row from left to right:
 Vessel area density color map, vessel diameter color map, vessel skeleton density color map and vessel complexity index color map. 
- 
+ ![Step3](./figs/Step3.png) 
 
 
 Step 4: Save the results
 Click the “Open save folder” button to select a new folder, all results will be saved to selected folder.
+![Step4](./figs/Step4.png) 
  
 
 Step 5: Check the results
 The quantitative parameters and the visualization images will be saved to user-selected folder, as showed screenshot below.
+
+![Step5](./figs/Step5.png) 
+![Step6](./figs/Step6.png) 
  
  
 
