@@ -3,6 +3,7 @@
 Quantitative Analysis Software User Guide
 ## Overview:
 This software provides an easy graphical user interface (GUI), based on python, to quantifying the vasculature in disk OCTA images.
+ ![fig1](./figs/Picture1.png)
  
 ## Installation
 Uninstall the zip package under windows environment
@@ -12,6 +13,7 @@ Open the main.exe
 
 Step 1: Open the image
 Use the Open Folder button to select the OCTA enface image to be processed.
+![Step1](./figs/Step1.png)
  
 Step 2: Select the parameters
 Currently, user only need to select the size of the image, either select 4.5mm or 6mm
